@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="opcionMenuAgregarCiudad">Agregar ciudad</string>
+    <string name="opcionMenuCargarAPPID">Cargar APPID</string>
+    <string name="opcionMenuAyuda">Ayuda</string>
+
+    <string name="opcionContMenuEditarCiudad">Editar ciudad</string>
+    <string name="opcionContMenuEliminarCiudad">Eliminar ciudad</string>
+
+    <string name="msgIngCiudad">Ingrese el nombre de una ciudad</string>
+    <string name="msgCargarAPPID">Ingrese el APPID de su cuenta</string>
+    <string name="cityDefault"></string>
+    <string name="botonAgregarCiudad">Agregar ciudad</string>
+    <string name="botonEditarCiudad">Editar ciudad</string>
+    <string name="botonCargarAPPID">Cargar APPID</string>
+    <string name="botonVolver">Volver</string>
+
+    <string name="tituloDialogoAyuda">Ayuda</string>
+    <string name="contenidoDialogoAyuda">  Añade una ciudad con la opción "Agregar ciudad".
+        Se lanzará una pantalla que le permitirá escribir el nombre de la zona deseada, la cual
+        aparecerá en la lista de la ventana principal. Puede consultar la temperatura de una ciudad
+        simplemente pulsando sobre ella. Si mantiene su selección de manera prolongada, aparecerá un
+        menú desplegable que le permitirá editar y borrar la ciudad seleccionada."</string>
+</resources>
